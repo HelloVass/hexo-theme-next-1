@@ -118,17 +118,18 @@ index_with_subtitle: false
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, question icon will be loaded.
 menu:
   home: / || home
-  #about: /about/ || user
-  #tags: /tags/ || tags
-  #categories: /categories/ || th
+  categories: /categories/ || th
+  about: /about/ || user
   archives: /archives/ || archive
+  tags: /tags/ || tags
+  reviewme: /reviewme/ || reviewme
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
 
 # Enable/Disable menu icons / item badges.
 menu_settings:
-  icons: true
+  icons: false
   badges: false
 
 # ---------------------------------------------------------------
@@ -136,8 +137,8 @@ menu_settings:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
+# scheme: Muse
+scheme: Mist
 #scheme: Pisces
 #scheme: Gemini
 
@@ -154,9 +155,10 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
-#social:
-  #GitHub: https://github.com/yourname || github
-  #E-Mail: mailto:yourname@gmail.com || envelope
+social:
+  GitHub: https://github.com/HelloVass || github
+  jianshu: http://www.jianshu.com/users/bf37dbaf04fd/latest_articles || jianshu
+  E-Mail: mailto:hellova33@gmail.com || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
@@ -167,7 +169,7 @@ site_state: true
   #Skype: skype:yourname?call|chat || skype
 
 social_icons:
-  enable: true
+  enable: false
   icons_only: false
   transition: false
   # Dependencies: exturl: true in Tags Settings section below.
@@ -183,18 +185,32 @@ social_icons:
 
 # Blog rolls
 links_icon: link
-links_title: Links
-links_layout: block
-#links_layout: inline
-#links:
-  #Title: http://example.com/
+
+links_title: 已经完成的交♂易
+
+links:
+  黑基: http://blog.bellorchid.info/
+  gaygay哈: https://tecotaku.cn/
+  阿温: https://geminiwen.com/
+  showonne: http://www.showonne.com/
+  古风: http://blog.csdn.net/kevinjqy
+  雾雾: https://fogdong.github.io/
+  xana: http://mikumiku.com.cn
+  东东: http://mephis.me
+  枫祺玥: http://cheri.love/
+  右右: http://www.jianshu.com/u/6b372d09b617
+  川神: http://blog.harbon.link
+  祥哥: http://blog.licrafter.com/
+  小木偶: http://puppetkant.cn/
+
+links_layout: inline
 
 # Sidebar Avatar
 avatar:
   # in theme directory(source/images): /images/avatar.gif
   # in site  directory(source/uploads): /uploads/avatar.gif
   # You can also use other linking images.
-  url: #/images/avatar.gif
+  url: http://7xsq1h.com1.z0.glb.clouddn.com/avatar_hellovass.jpeg
   # If true, the avatar would be dispalyed in circle. 
   rounded: false
   # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.

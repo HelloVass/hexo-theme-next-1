@@ -6,14 +6,15 @@ title:
   schedule: 日程表
 menu:
   home: 首页
-  archives: 归档
-  categories: 分类
-  tags: 标签
-  about: 关于
+  archives: 犯罪过程
+  categories: 案件类型
+  tags: 作案手法
+  about: ╭( ′• o •′ )╭☞警察叔叔！就是这个人！
   search: 搜索
   schedule: 日程表
   sitemap: 站点地图
   commonweal: 公益 404
+  reviewme: 简历
 sidebar:
   overview: 站点概览
   toc: 文章目录
@@ -47,22 +48,22 @@ footer:
   powered: "由 %s 强力驱动"
   theme: 主题
   total_views: 总访问量
-  total_visitors: 总访客量
+  total_visitors: 总乘客数
 counter:
   tag_cloud:
     zero: 暂无标签
-    one: 目前共计 1 个标签
-    other: "目前共计 %d 个标签"
+    one: 目前共计 1 种手法
+    other: "目前共计 %d 种手法"
   categories:
     zero: 暂无分类
-    one: 目前共计 1 个分类
-    other: "目前共计 %d 个分类"
+    one: 目前共计 1 种类型
+    other: "目前共计 %d 种类型"
   archive_posts:
-    zero: 暂无日志。
-    one: 目前共计 1 篇日志。
-    other: "目前共计 %d 篇日志。"
+    zero: 暂无犯罪记录
+    one: 目前共计 1 条犯罪记录。
+    other: "目前共计 %d 条记录。"
 state:
-  posts: 日志
+  posts: 文章
   pages: 页面
   tags: 标签
   categories: 分类
@@ -75,7 +76,7 @@ cheers:
   good: 很好
   great: 非常好
   excellent: 太棒了
-keep_on: 继续努力。
+keep_on: 继续犯罪(˘•ω•˘)ง。
 symbol:
   comma: "，"
   period: "。"
