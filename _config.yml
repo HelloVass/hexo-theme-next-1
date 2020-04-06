@@ -189,19 +189,17 @@ links_icon: link
 links_title: 已经完成的交♂易
 
 links:
-  黑基: http://blog.bellorchid.info/
+  阿乐: http://blog.happyjava.cn/
   gay哈: https://tecotaku.cn/
   阿温: https://geminiwen.com/
   showonne: http://www.showonne.com/
   古风: http://blog.csdn.net/kevinjqy
   雾雾: https://fogdong.github.io/
   xana: http://mikumiku.com.cn
-  东东: http://mephis.me
   枫祺玥: http://cheri.love/
   右右: http://www.jianshu.com/u/6b372d09b617
   川神: http://blog.harbon.link
   祥哥: http://blog.licrafter.com/
-  小木偶: http://puppetkant.cn/
 
 links_layout: inline
 
@@ -372,7 +370,7 @@ custom_logo:
 # Code Highlight theme
 # Available values: normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night
 
 # Enable "cheers" for archive page.
 cheers_enabled: true
