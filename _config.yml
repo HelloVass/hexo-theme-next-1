@@ -123,6 +123,7 @@ menu:
   archives: /archives/ || archive
   tags: /tags/ || tags
   reviewme: /reviewme/ || reviewme
+  laoren: /laoren/ || laoren
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
@@ -186,21 +187,21 @@ social_icons:
 # Blog rolls
 links_icon: link
 
-links_title: 已经完成的交♂易
+links_title: 以下完成的交♂易，来源于「轲爷的奇妙冒险」，排名不分先后，如果你也想进行交♂易或者认识这些大佬，嘿嘿:)
 
 links:
-  阿乐: http://blog.happyjava.cn/
+  ClericYi: https://juejin.im/user/5e2659e15188254d95242d4b/posts
+  锐哥: https://rychou.github.io/
   gay哈: https://tecotaku.cn/
-  阿温: https://geminiwen.com/
-  showonne: http://www.showonne.com/
-  古风: http://blog.csdn.net/kevinjqy
   雾雾: https://fogdong.github.io/
   xana: http://mikumiku.com.cn
-  枫祺玥: http://cheri.love/
-  右右: http://www.jianshu.com/u/6b372d09b617
-  川神: http://blog.harbon.link
+  阿乐: http://blog.happyjava.cn/
   祥哥: http://blog.licrafter.com/
-  锐哥: https://rychou.github.io/
+  showonne: http://www.showonne.com/
+  枫祺玥: http://cheri.love/
+  川神: http://blog.harbon.link
+  右右: http://www.jianshu.com/u/6b372d09b617
+  阿温: https://geminiwen.com/
 
 links_layout: inline
 
